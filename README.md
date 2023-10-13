@@ -1,2 +1,2 @@
 # My-Project1
-Its a simple website having similar HomePage of Netflix Using HTML and CSS.
+I have develop a simple website that having a similar HomePage of Netflix Using HTML and CSS.
